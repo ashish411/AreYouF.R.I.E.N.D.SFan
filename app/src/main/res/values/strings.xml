@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">Are You F.R.I.E.N.D.S Fan</string>
+    <string name="first_question">Q.1  Who is this in real life ?</string>
+    <string name="second_question">Q.2 Who did she work for ?</string>
+    <string name="third_question">Q.3 In the very first episode, Rachel makes her entrance as a runaway bride - but what was the name of the husband-to-be from who she was running?</string>
+    <string name="fourth_question">Q.4 Which band sang the Friends theme tune?</string>
+    <string name="sixth_question">Q.6 which character is she ??</string>
+    <string name="first_a">Jennifer Anniston </string>
+    <string name="first_b">Courteney Cox Arquette </string>
+    <string name="first_c">Lisa Kudrow </string>
+    <string name="first_d">Monica Geller </string>
+    <string name="second">Enter First Name only</string>
+    <string name="second_button">Submit Text</string>
+    <string name="third_a">Chuck</string>
+    <string name="third_b">Larry</string>
+    <string name="third_c">Barry</string>
+    <string name="fifth_question">Q.5 Who all have lived in Monica\'s apartment ?</string>
+    <string name="fourth_a">The Rembrandts</string>
+    <string name="fourth_b">REM</string>
+    <string name="fourth_c">Hootie and Blowfish</string>
+    <string name="fifth_a">Ross</string>
+    <string name="fifth_b">Rachel</string>
+    <string name="fifth_c">Chandler</string>
+    <string name="fifth_d">Joey</string>
+    <string name="fifth_e">Pheobe</string>
+    <string name="fifth_f">Monica</string>
+    <string name="sixth_a">Emily</string>
+    <string name="sixth_b">Carol</string>
+    <string name="sixth_c">Janice</string>
+    <string name="sixth_play">play</string>
+    <string name="result_submit">Submit</string>
+    <string name="again">play again</string>
+    <string name="exit">exit</string>
+    <string name="rtpl">Ready to Play</string>
+    <string name="start">Start</string>
+
 </resources>

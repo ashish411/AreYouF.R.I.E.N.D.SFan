@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#000000"
+    android:layout_height="match_parent"
+    tools:context="com.example.ashis.areyoufriendsfan.FirstPage">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/textView_q1"
+            android:textColor="@color/text_color"
+            android:text="@string/first_question" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView_q1"
+            android:src="@mipmap/img_q1"
+            android:minHeight="200dp"
+            />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:minHeight="100dp"
+            android:id="@+id/radiogroup_q1">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/first_a"
+                android:textColor="@color/text_color"
+                android:id="@+id/radioButton_q1_a"
+                android:buttonTint="@color/red"
+                android:layout_gravity="center_horizontal"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/first_b"
+                android:id="@+id/radioButton_q1_b"
+                android:buttonTint="@color/red"
+                android:textColor="@color/text_color"
+                android:layout_gravity="center_horizontal"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/first_c"
+                android:buttonTint="@color/red"
+                android:id="@+id/radioButton_q1_c"
+                android:textColor="@color/text_color"
+                android:layout_gravity="center_horizontal"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/first_d"
+                android:buttonTint="@color/red"
+                android:textColor="@color/text_color"
+                android:id="@+id/radioButton_q1_d"
+                android:layout_gravity="center_horizontal"
+                android:checked="false" />
+
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/second_question"
+            android:id="@+id/textView_q2" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView_q2"
+            android:minHeight="200dp"
+            android:src="@mipmap/img_q2" />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:textColor="@color/text_color"
+            android:textColorHint="@color/text_color"
+            android:ems="10"
+            android:id="@+id/editText_q2"
+            android:hint="@string/second"
+            android:layout_weight="1" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/second_button"
+            android:layout_weight="1"
+            android:background="@color/buttons"
+            android:id="@+id/button_text" />
+</LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/third_question"
+            android:id="@+id/textView_q3"
+            android:textColor="@color/text_color"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView_q3"
+            android:minHeight="200dp"
+            android:src="@mipmap/img_q3" />
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:minHeight="100dp"
+            android:id="@+id/radiogroup_q3">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/third_a"
+            android:buttonTint="@color/red"
+            android:textColor="@color/text_color"
+            android:id="@+id/radioButton_q3_a"
+            android:layout_gravity="center_horizontal"
+            android:checked="false" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/third_b"
+            android:buttonTint="@color/red"
+            android:textColor="@color/text_color"
+            android:id="@+id/radioButton_q3_b"
+            android:layout_gravity="center_horizontal"
+            android:checked="false" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/third_c"
+            android:buttonTint="@color/red"
+            android:textColor="@color/text_color"
+            android:id="@+id/radioButton_q3_c"
+            android:layout_gravity="center_horizontal"
+            android:checked="false" />
+        </RadioGroup>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/fourth_question"
+            android:id="@+id/textView_q4" />
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:minHeight="100dp"
+            android:id="@+id/radiogroup_q4">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fourth_a"
+                android:buttonTint="@color/red"
+                android:textColor="@color/text_color"
+                android:id="@+id/radioButton_q4_a"
+                android:layout_gravity="center_horizontal"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fourth_b"
+                android:buttonTint="@color/red"
+                android:textColor="@color/text_color"
+                android:id="@+id/radioButton_q4_b"
+                android:layout_gravity="center_horizontal"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fourth_c"
+                android:buttonTint="@color/red"
+                android:textColor="@color/text_color"
+                android:id="@+id/radioButton_q4_c"
+                android:layout_gravity="center_horizontal"
+                android:checked="false" />
+        </RadioGroup>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Who all have lived in Monica&apos;s Apartment ?"
+            android:id="@+id/textView_q5" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView_q5"
+            android:minHeight="200dp"
+            android:src="@mipmap/img_q5" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="100dp">
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fifth_a"
+                android:textColor="@color/text_color"
+                android:id="@+id/checkBox_a"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:checked="false" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fifth_b"
+                android:textColor="@color/text_color"
+                android:id="@+id/checkBox_b"
+                android:layout_alignParentTop="true"
+                android:layout_alignLeft="@+id/checkBox_d"
+                android:layout_alignStart="@+id/checkBox_d"
+                android:checked="false" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fifth_c"
+                android:textColor="@color/text_color"
+                android:id="@+id/checkBox_c"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:checked="false" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fifth_d"
+                android:textColor="@color/text_color"
+                android:id="@+id/checkBox_d"
+                android:checked="false"
+                android:layout_below="@+id/checkBox_b"
+                android:layout_alignRight="@+id/checkBox_f"
+                android:layout_alignEnd="@+id/checkBox_f" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fifth_e"
+                android:textColor="@color/text_color"
+                android:id="@+id/checkBox_e"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:checked="false" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fifth_f"
+                android:id="@+id/checkBox_f"
+                android:textColor="@color/text_color"
+                android:checked="false"
+                android:layout_marginRight="34dp"
+                android:layout_marginEnd="34dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/sixth_question"
+            android:id="@+id/textView_q6" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sixth_play"
+            android:background="@color/buttons"
+            android:id="@+id/button_play"
+            android:layout_gravity="center"
+            android:onClick="playVoice" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:minHeight="100dp"
+            android:id="@+id/radiogroup_q6">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sixth_a"
+                android:buttonTint="@color/red"
+                android:textColor="@color/text_color"
+                android:id="@+id/radioButton_q6_a"
+                android:layout_gravity="center_horizontal"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sixth_b"
+                android:buttonTint="@color/red"
+                android:textColor="@color/text_color"
+                android:id="@+id/radioButton_q6_b"
+                android:layout_gravity="center_horizontal"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sixth_c"
+                android:buttonTint="@color/red"
+                android:textColor="@color/text_color"
+                android:id="@+id/radioButton_q6_c"
+                android:layout_gravity="center_horizontal"
+                android:checked="false" />
+        </RadioGroup>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/buttons"
+            android:text="@string/result_submit"
+            android:id="@+id/button_Submit" />
+
+    </LinearLayout>
+</ScrollView>

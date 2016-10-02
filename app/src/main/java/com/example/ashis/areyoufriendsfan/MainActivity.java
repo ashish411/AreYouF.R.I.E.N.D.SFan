@@ -1,5 +1,6 @@
 package com.example.ashis.areyoufriendsfan;
 
+import android.content.Intent;
 import android.graphics.Typeface;
 import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;
@@ -12,10 +13,11 @@ public class MainActivity extends AppCompatActivity {
 
     TextView textView;
     Button button_start;
+     MediaPlayer mp;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        final MediaPlayer mp = MediaPlayer.create(this,R.raw.theme_song);
+        mp=  MediaPlayer.create(this,R.raw.theme_song);
         mp.start();
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
@@ -28,10 +30,18 @@ public class MainActivity extends AppCompatActivity {
            @Override
            public void onClick(View v) {
                mp.stop();
+               Intent intent = new Intent(getApplicationContext(),FirstPage.class);
+               startActivity(intent);
+               finish();
            }
        });
     }
 
+    @Override
+    protected void onPause() {
+        super.onPause();
+        mp.stop();
 
+    }
 }
 

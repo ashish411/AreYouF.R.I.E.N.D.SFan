@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_6eabe3025b4bf9b89260bffb29babb05f043c058\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_abac401e0329f979c483ca6d6cc53c44e8eb68a9\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_50071f593bd967e54fdf0e87c2272b11befecbfb\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_3acd5835eacd35622eba7cf7511e019a2b8f662e\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_37e3c1b22e0f8b11c93fbccc752219dcaf207cbc\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_3964aca18c5f1bd0d4eb1fd9d6e28086142074ff\classes.dex" />
+    </item>
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_771a066f855ecc51320ba1bd42b0b383b809178c\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_babd5b756fbb48fdafdcb5bea00442339232dcf7\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_e55a85e6e9d6c9207ffb09bf5aa50fcffdffed46\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_6ff465690e59b8fd650ee582060c80be38a5cbcb\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_89825bfd3494c9a79627f74a1e268731c13168b2\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9c75a16f8d2b07aa3f1d2168f576e440947d29e">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e9392912e28caf1a64ce8bc46137175b5bde130e\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_251ee7edba6c418133a10be5f09983881339e574\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ec938daa3761ab8b775c044c7cf9eea685598e93\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ed1525fea4f7d42d27f7fac84bdce565c9e01242">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8c853f886d57e62e6161a69d5ab641f8b8cb092b\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_729c71187c47ae91aca4eff398fd0972aa3a3e2c\classes.dex" />
+    </item>
+    <item
+        jar="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\ashish\AreYouF.R.I.E.N.D.SFan\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_5b242b6c20407596e7e658427ce5970782cb1f77\classes.dex" />
+    </item>
+
+</items>
